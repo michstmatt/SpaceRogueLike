@@ -1,0 +1,20 @@
+[remap]
+
+importer="wavefront_obj"
+type="Mesh"
+path="res://.import/MicroRecon.obj-7de806b1e10d30d74a624b341744be2f.mesh"
+
+[deps]
+
+files=[ "res://.import/MicroRecon.obj-7de806b1e10d30d74a624b341744be2f.mesh" ]
+
+source_file="res://assets/MicroRecon/MicroRecon.obj"
+dest_files=[ "res://.import/MicroRecon.obj-7de806b1e10d30d74a624b341744be2f.mesh", "res://.import/MicroRecon.obj-7de806b1e10d30d74a624b341744be2f.mesh" ]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3( 1, 1, 1 )
+offset_mesh=Vector3( 0, 0, 0 )
+octahedral_compression=true
+optimize_mesh_flags=4286

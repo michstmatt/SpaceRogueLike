@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QHV0knAaDQjW8U3q/3q0xrD7D2xM2IT9/ZOE1ha6STWtdQCho/uANDXNBoexGpACPA9HfHKQJwV2IZagQEtWYA==",
+  "success": true,
+  "projectFilePath": "E:\\godot\\SpaceRoguelike\\SpaceRoguelike.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MattP\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\MattP\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net472\\1.0.2\\microsoft.netframework.referenceassemblies.net472.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

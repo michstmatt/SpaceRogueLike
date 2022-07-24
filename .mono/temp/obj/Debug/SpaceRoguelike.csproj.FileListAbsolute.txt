@@ -1,0 +1,9 @@
+E:\godot\SpaceRoguelike\.mono\temp\bin\Debug\SpaceRoguelike.dll
+E:\godot\SpaceRoguelike\.mono\temp\bin\Debug\SpaceRoguelike.pdb
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.csproj.AssemblyReference.cache
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.GeneratedMSBuildEditorConfig.editorconfig
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.AssemblyInfoInputs.cache
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.AssemblyInfo.cs
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.csproj.CoreCompileInputs.cache
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.dll
+E:\godot\SpaceRoguelike\.mono\temp\obj\Debug\SpaceRoguelike.pdb
