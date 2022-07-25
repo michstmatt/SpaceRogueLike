@@ -1,10 +1,18 @@
-[gd_scene load_steps=6 format=2]
+[gd_scene load_steps=9 format=2]
 
 [ext_resource path="res://Player/Player.tscn" type="PackedScene" id=1]
 [ext_resource path="res://Grid/Grid.tscn" type="PackedScene" id=2]
 [ext_resource path="res://AI/AI.tscn" type="PackedScene" id=3]
 [ext_resource path="res://Grid/Grid.cs" type="Script" id=4]
 [ext_resource path="res://GameManager.cs" type="Script" id=5]
+[ext_resource path="res://assets/Large 1024x1024/Starfields/Starfield 3 - 1024x1024.png" type="Texture" id=6]
+
+[sub_resource type="PanoramaSky" id=2]
+panorama = ExtResource( 6 )
+
+[sub_resource type="Environment" id=1]
+background_mode = 2
+background_sky = SubResource( 2 )
 
 [node name="Main" type="Node"]
 script = ExtResource( 5 )
@@ -32,3 +40,6 @@ YOffset = 0
 [node name="Camera" type="Camera" parent="Player/CameraPivot"]
 transform = Transform( 1, 0, 0, 0, 0.707107, 0.707107, 0, -0.707107, 0.707107, 0, 10, 5 )
 fov = 90.0
+
+[node name="WorldEnvironment" type="WorldEnvironment" parent="."]
+environment = SubResource( 1 )

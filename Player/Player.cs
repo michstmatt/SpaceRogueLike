@@ -16,11 +16,12 @@ public class Player : SpaceShip
 		base._Ready();
 		CombatMenu = GetNode<CombatMenu>("CombatMenu/PopupMenu");
 		CombatMenu.AddItem("Blaster");
-		CombatMenu.AddItem("Missile 8/10");
+		CombatMenu.AddItem("Missile 10/10");
 	}
 
 	public void MenuCallback(int index)
 	{
+		Attack();
 	}
 
 	public override void _PhysicsProcess(float delta)
